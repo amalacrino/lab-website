@@ -18,7 +18,7 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
-    - Grad Students
+    - PhD Students
     - Administration
     - Visitors
     - Alumni
@@ -27,3 +27,8 @@ design:
   show_role: true
   show_social: true
 ---
+
+**Alumni**
+
+* **Imen Belgacem**, now Postdoc at INRA (France)
+* **Ahmed Abdelfattah**, now Group Leader at Leibniz-Institut für Agrartechnik und Bioökonomie (Germany)
