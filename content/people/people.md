@@ -27,7 +27,3 @@ design:
   show_role: true
   show_social: true
 ---
-
-<br>
-
-Alumni
