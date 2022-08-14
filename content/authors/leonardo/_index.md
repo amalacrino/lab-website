@@ -6,7 +6,7 @@ title: Leonardo Schena
 superuser: false
 
 # Role/position
-role: Professor
+role: Full Professor
 
 # Organizations/Affiliations
 organizations:
@@ -17,21 +17,21 @@ organizations:
 bio: BIO_HERE
 
 interests:
-  - Plants
-  - Microbiomes
-  - Ecology & Evolution
+  - Plant Pathology
+  - Plant Microbiomes
+  - Biocontrol
 
 education:
   courses:
-  - course: Ph.D. in Agriculture, Forestry and Environmental Sciences
-    institution: University of Palermo (Italy)
-    year: 2017
-  - course: M.Sc. in Agriculture
-    institution: University of Reggio Calabria (Italy)
-    year: 2013
-  - course: BSc in Agriculture
-    institution: University of Reggio Calabria (Italy)
-    year: 2011
+  - course: Ph.D. in X
+    institution: University of Y
+    year: ZZZZ
+#  - course: M.Sc. in Agriculture
+#    institution: University of Reggio Calabria (Italy)
+ #   year: 2013
+ # - course: BSc in Agriculture
+  #  institution: University of Reggio Calabria (Italy)
+  #  year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,4 +69,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Stuff here
+Brief description here
