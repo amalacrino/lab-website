@@ -8,7 +8,6 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Plant Pathology Group  
-  University of Reggio Calabria, Italy
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-The **Plant Pathology Group ** at the University of Reggio Calabria focuses on both fundamental and applied research on plant-pathogen interactions, plant microbiomes, and biocontrol.
+The **Plant Pathology Group** at the University of Reggio Calabria focuses on both fundamental and applied research on plant-pathogen interactions, plant microbiomes, and biocontrol.
