@@ -28,7 +28,6 @@ design:
   show_social: true
 ---
 
-**Alumni**
+<br>
 
-* **Imen Belgacem**, now Postdoc at INRA (France)
-* **Ahmed Abdelfattah**, now Group Leader at Leibniz-Institut für Agrartechnik und Bioökonomie (Germany)
+Alumni
