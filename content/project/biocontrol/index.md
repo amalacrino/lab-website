@@ -1,8 +1,8 @@
 ---
-title: Plant microbiomes
-summary: How do plant microbiomes assemble and function?
+title: Biological control
+summary: 
 tags:
-  - Microbiomes
+  - biocontrol
 date: '2022-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -30,4 +30,4 @@ url_video: ''
 slides: example
 ---
 
-What are the rules behind plant microbiome assembly?
+
