@@ -6,7 +6,7 @@ title: Maria Giulia Li Destri Nicosia
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Tenured Senior Researcher
 
 # Organizations/Affiliations
 organizations:

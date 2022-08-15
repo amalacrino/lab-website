@@ -6,7 +6,7 @@ title: Saveria Mosca
 superuser: false
 
 # Role/position
-role: Assistant Professor (RTDa)
+role: Senior Researcher (RTDa)
 
 # Organizations/Affiliations
 organizations:
