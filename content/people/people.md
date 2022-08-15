@@ -18,8 +18,9 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
+    - Postdocs
     - PhD Students
-    - Administration
+    - Lab Technicians
     - Visitors
     - Alumni
 design:
