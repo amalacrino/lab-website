@@ -9,7 +9,7 @@ authors:
   - Sonia Pangallo
   - gianni
   - leonardo
-#author_notes:
+author_notes:
  - 'Equal contribution'
  - 'Equal contribution'
 date: '2022-02-05T00:00:00Z'
