@@ -22,8 +22,8 @@ doi: '10.1007/978-1-0716-2517-0_19'
 publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: ' Plant Pathology Method and Protocols'
-publication_short: ''
+#publication: ' Plant Pathology Method and Protocols'
+#publication_short: ''
 
 abstract: Recent advancements in high-throughput sequencing have provided scientists with vastly enhanced tools to diagnose unknown tree diseases. One of these techniques is referred to as metabarcoding, which uses phylogenetically informative reference genes to taxonomically classify short DNA sequences amplified from environmental samples. Using metabarcoding, we are able to compare the microbiota of symptomatic and asymptomatic (including presumably naïve) samples and identify microbe(s) that are only present in symptomatic samples and could therefore be responsible for the undiagnosed disease. Metabarcoding involves two main steps: library preparation and bioinformatic processing. For library preparation, the appropriate reference gene for the organism of interest (i.e., bacteria, phytoplasma, fungi, or other eukaryotes, such as nematodes) is amplified from the DNA extracted from the environmental samples using PCR and prepared for sequencing. The bioinformatic processing includes four major steps: (1) quality check and cleanup on raw reads; (2) classification of the sequences into taxonomically informative groups (ASVs or OTUs); (3) taxonomy assignments based on the reference database; and (4) differential abundance and diversity analyses to identify microbes that are significantly associated with just symptomatic samples and that point toward the putative causal agent of the disease.
 
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+# url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
