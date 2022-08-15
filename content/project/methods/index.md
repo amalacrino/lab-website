@@ -1,15 +1,16 @@
 ---
-title: Biological control
+title: Diagnostics and Methodology
 summary: 
 tags:
-  - biocontrol
+  - methods
+  - diagnosis
 date: '2022-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by [Eelco Böhtlingk](https://unsplash.com/@eelco_bohtlingk) on  [Unsplash](https://unsplash.com/) 
+  caption: Photo by [Julia Koblitz](https://unsplash.com/@jkoblitz) on  [Unsplash](https://unsplash.com/) 
   focal_point: Smart
 
 links:
