@@ -1,9 +1,9 @@
 ---
 title: Alternative control strategies
-summary: 
+summary: We are getting inspired by nature to find environmental-friendly solutions to crop protection.
 tags:
   - alternative strategies
-date: '2022-01-01T00:00:00Z'
+date: '2021-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -29,5 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+Agriculture cannot rely on agrochemicals for much longer, and this is a fact! Our understanding of the effects of traditional plant protection strategies on the environment has been changing over the past decades, and in the same way we need to change our approach to plant protection.
 
 
