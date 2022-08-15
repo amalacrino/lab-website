@@ -15,8 +15,9 @@ user_groups:
 * **Ahmed Abdelfattah** (PhD student and Postdoc), now Group Leader at Leibniz ATB (Potsdam, Germany)
 * **Valentina Librizzi** (PhD student)
 * **David Ruano-Rosa** (Postdoc)
+* **Sonia Pangallo** (Postdoc)
 * **Serena Minutillo** (Postdoc)
 * **Maria Isabella Prigigallo** (PhD student)
 * **Sonia Pangallo** (Postdoc)
 * **Antonio Biasi** (PhD student)
-* **Marco Mammella**
+* **Marco Mammella** (PhD student)
