@@ -11,4 +11,12 @@ user_groups:
   - Alumni
 ---
 
-Stuff here
+* **Imen Belgacem** (PhD student and Postdoc), now postdoc at INRAE (France)
+* **Ahmed Abdelfattah** (PhD student and Postdoc), now Group Leader at Leibniz ATB (Potsdam, Germany)
+* **Valentina Librizzi** (PhD student)
+* **David Ruano-Rosa** (Postdoc)
+* **Serena Minutillo** (Postdoc)
+* **Maria Isabella Prigigallo** (PhD student)
+* **Sonia Pangallo** (Postdoc)
+* **Antonio Biasi** (PhD student)
+* **Marco Mammella**
