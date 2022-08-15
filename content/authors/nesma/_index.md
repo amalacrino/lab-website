@@ -16,22 +16,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: BIO_HERE
 
+
 interests:
-  - Plants
-  - Microbiomes
-  - Ecology & Evolution
+  - A
+  - B
+  - C
 
 education:
   courses:
-  - course: Ph.D. in Agriculture, Forestry and Environmental Sciences
-    institution: University of Palermo (Italy)
-    year: 2017
-  - course: M.Sc. in Agriculture
-    institution: University of Reggio Calabria (Italy)
-    year: 2013
-  - course: BSc in Agriculture
-    institution: University of Reggio Calabria (Italy)
-    year: 2011
+  - course: Ph.D. in X
+    institution: University of Y
+    year: ZZZZ
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,22 +35,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lschena@unirc.it' 
+  link: 'mailto:geagosteo@unirc.it' 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/SchenaLeonardo
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.it/citations?user=2XwozVIAAAAJ
+  link: 
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Leonardo-Schena
+  link: 
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
 #  icon_pack: ai
-#  link: https://drive.google.com/file/d/1ZAfSp8PyKjZNcPXO7GvmCnSSsog6YxGF/view?usp=sharing
+#  link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
