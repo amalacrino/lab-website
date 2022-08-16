@@ -19,6 +19,6 @@ design:
 
 <br>
 
-The **Plant Pathology Group** at the University of Reggio Calabria focuses on both fundamental and applied research on plant-pathogen interactions, plant microbiomes, and biocontrol.
+The **Plant Pathology Group** at the University of Reggio Calabria focuses on both fundamental and applied research on plant pathogens, plant microbiomes, and biological control. We integrate multiple approaches and theories spanning the fields of microbiology, community ecology, experimental evolution, meta-omics, and bioinformatics. In our quest to uncover the mechanisms and consequences of plant-microbe interactions, we aim to build a diverse and inclusive research group, welcoming great ideas and promoting tolerance and mutual respect.
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
