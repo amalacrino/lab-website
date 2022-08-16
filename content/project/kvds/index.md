@@ -1,15 +1,16 @@
 ---
-title: Postharvest pathogens
+title: Kiwifruit Vine Decline Syndrome
 summary: 
 tags:
-  - postharvest
-date: '2020-01-01T00:00:00Z'
+  - kiwifruit
+  - pathogen
+date: '2018-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by [Sandy Millar](https://unsplash.com/@sandym10) on  [Unsplash](https://unsplash.com/) 
+  caption: Photo by [engin akyurt](https://unsplash.com/@enginakyurt) on  [Unsplash](https://unsplash.com/) 
   focal_point: Smart
 
 links:
@@ -29,4 +30,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
 

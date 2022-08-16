@@ -1,10 +1,10 @@
 ---
-title: Olive diseases
+title: Olive pathogens
 summary: 
 tags:
   - olive
   - pathogen
-date: '2022-01-01T00:00:00Z'
+date: '2019-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
