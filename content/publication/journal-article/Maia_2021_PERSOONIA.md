@@ -1,5 +1,5 @@
 ---
-title: 'Metagenomics Approaches for the Detection and Surveillance of Emerging and Recurrent Plant Pathogens'
+title: 'Eight new Halophytophthora species from marine and brackish-water ecosystems in Portugal and an updated phylogeny for the genus'
 authors:
   - C Maia
   - M. Horta Jung
