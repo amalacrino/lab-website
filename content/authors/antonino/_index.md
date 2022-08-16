@@ -26,12 +26,12 @@ education:
   - course: Ph.D. in Agriculture, Forestry and Environmental Sciences
     institution: University of Palermo (Italy)
     year: 2017
-  - course: M.Sc. in Agriculture
-    institution: University of Reggio Calabria (Italy)
-    year: 2013
-  - course: BSc in Agriculture
-    institution: University of Reggio Calabria (Italy)
-    year: 2011
+#  - course: M.Sc. in Agriculture
+#    institution: University of Reggio Calabria (Italy)
+#    year: 2013
+#  - course: BSc in Agriculture
+#    institution: University of Reggio Calabria (Italy)
+#    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,7 +67,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
