@@ -12,7 +12,7 @@ user_groups:
 ---
 
 * **Imen Belgacem** (PhD student and Postdoc), now postdoc at INRAE (France)
-* **Ahmed Abdelfattah** (PhD student and Postdoc), now Group Leader at Leibniz ATB (Potsdam, Germany)
+* **Ahmed Abdelfattah** (PhD student and Postdoc), now Group Leader at Leibniz ATB (Germany)
 * **Valentina Librizzi** (PhD student)
 * **David Ruano-Rosa** (Postdoc)
 * **Sonia Pangallo** (Postdoc)
