@@ -21,7 +21,7 @@ interests:
   - Biological control
   - Postharvest diseases
   - Molecular detection
-  - *Phytophtora* spp.
+  - Phytophtora spp.
 
 education:
   courses:
