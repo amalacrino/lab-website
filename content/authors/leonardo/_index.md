@@ -14,12 +14,14 @@ organizations:
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: BIO_HERE
+bio: Professor of Plant Pathology
 
 interests:
-  - Plant Pathology
-  - Plant Microbiomes
-  - Biocontrol
+  - Plant microbiomes
+  - Biological control
+  - Postharvest diseases
+  - Molecular detection
+  - *Phytophtora* spp.
 
 education:
   courses:
@@ -69,4 +71,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Brief description here
+Prof. Schena has over 25 years of experience in basic and applied research in Plant pathology, documented by 106 publications, h-index 40, and more than 4400 citations (Scopus database). His current research mainly focuses on the study of the plant microbiome to understand its structure, function, inheritance, and interactions with plants and pathogens. His work is increasing knowledge on plant associated beneficial and pathogenic microorganisms, laying the bases for more effective control strategies. He also has extensive experience on biological control methods against diseases of fruit and vegetables and in the prevention of mycotoxin contaminations. Most studies focuses on diseases of Mediterranean plant and crops and on KVD, a new severe disease of kiwifruit with a still debated etiology. Relevant is also the development of molecular detection methods for a number of species including bio-control agents and fungal and bacteria plant pathogens. A special focus is the study of Oomycetes species. He has been a pioneer in the use of amplicon-based metagenomics approaches to study *Phytophthora* diversity and contributed to the characterized of new *Phytophthora* hybrids and species as well as the related genus *Nothophytophthora*.
