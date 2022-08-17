@@ -1,15 +1,15 @@
 ---
-title: Postharvest diseases of fresh fruit and vegetables
+title: Phytophtora in agricultural and natural ecosystems
 summary: 
 tags:
-  - postharvest
+  - Phytophtora
 date: '2020-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by [Sandy Millar](https://unsplash.com/@sandym10) on  [Unsplash](https://unsplash.com/) 
+  caption: Photo by [Scot Nelson](https://www.flickr.com/photos/scotnelson) on [flickr](https://www.flickr.com/) 
   focal_point: Smart
 
 links:

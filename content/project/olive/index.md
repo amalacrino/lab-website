@@ -1,5 +1,5 @@
 ---
-title: Olive pathogens
+title: Diseases of mediterranean crops
 summary: 
 tags:
   - olive
