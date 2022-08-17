@@ -35,5 +35,3 @@ design:
   view: 2
   columns: '2'
 ---
-
-Papers published after 2015
