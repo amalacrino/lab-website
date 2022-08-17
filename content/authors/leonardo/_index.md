@@ -25,9 +25,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in X
-    institution: University of Y
-    year: ZZZZ
+  - course: Ph.D. in Plant Protection 
+    institution: University of Bari (Italy)
+    year: 2001
 #  - course: M.Sc. in Agriculture
 #    institution: University of Reggio Calabria (Italy)
  #   year: 2013
