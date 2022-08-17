@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Antonino Malacrinò
+weight: 30
 
 # Is this the primary user of the site?
 superuser: true

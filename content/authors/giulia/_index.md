@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Maria Giulia Li Destri Nicosia
+weight: 40
 
 # Is this the primary user of the site?
 superuser: false
