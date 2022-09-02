@@ -1,6 +1,6 @@
 ---
 title: Kiwifruit Vine Decline Syndrome
-summary: 
+summary: We work on understanding the cause and mechanisms behind the spread of KVDS.
 tags:
   - kiwifruit
   - pathogen
