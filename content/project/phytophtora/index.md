@@ -4,6 +4,7 @@ summary:
 tags:
   - Phytophtora
 date: '2020-01-01T00:00:00Z'
+authors: ["leonardo"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
