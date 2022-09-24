@@ -4,7 +4,8 @@ summary:
 tags:
   - postharvest
 date: '2020-01-01T00:00:00Z'
-authors: ["leonardo"]
+profile: false
+reading_time: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

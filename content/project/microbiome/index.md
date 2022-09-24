@@ -4,7 +4,8 @@ summary: How do plant microbiomes assemble and function?
 tags:
   - microbiome
 date: '2022-01-01T00:00:00Z'
-authors: ["antonino"]
+profile: false
+reading_time: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
