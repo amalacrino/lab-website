@@ -5,6 +5,7 @@ tags:
   - kiwifruit
   - pathogen
 date: '2018-01-01T00:00:00Z'
+authors: ["saveria"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

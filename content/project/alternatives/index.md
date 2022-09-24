@@ -8,6 +8,7 @@ tags:
   - microorganisms
   - synthetic communities
 date: '2021-01-01T00:00:00Z'
+authors: ["giulia"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
