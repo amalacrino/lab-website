@@ -4,6 +4,8 @@ date: 2022-09-14
 image:
   focal_point: 'top'
   preview_only: true
+profile: false
+reading_time: false
 ---
 
 
