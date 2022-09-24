@@ -7,7 +7,7 @@ image:
 
 New paper from the lab. 
 
-{{< cite page="/publication/journal-article/Tiziani_2022_EEB" view="stream" >}}
+{{< cite page="/publication/journal-article/tiziani_2022_eeb" view="stream" >}}
 
 
 <!--more-->
