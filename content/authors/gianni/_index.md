@@ -64,11 +64,11 @@ user_groups:
   - Principal Investigators
 
 _build:
-  render: true
+  render: never
 cascade:
   _build:
-    render: false
-    list: true
+    render: never
+    list: always
 ---
 
 Stuff here
