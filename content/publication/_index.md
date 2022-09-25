@@ -14,5 +14,5 @@ banner:
 
 
 {{% callout note %}}
-This is a list of selected recent papers published after 2015.
+This is a list of selected recent papers published since 2020.
 {{% /callout %}}
