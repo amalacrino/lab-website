@@ -1,4 +1,11 @@
 ---
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
+
 # Display name
 title: Giovanni E. Agosteo
 weight: 20
@@ -62,13 +69,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
-
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
 ---
 
 Stuff here
