@@ -40,7 +40,7 @@ Our lab focuses on understanding the mechanisms that regulate the interactions b
 
 **Genome-microbiome interactions**. Our results are clear: plant genotype plays a major role in assembling plant microbiomes. These results are supported by the extensive research in this field. However, we still know a little about the mechanisms behind this genotype-driven effect on the assembly of plant microbiomes. Our lab is working on dissecting the genetic architecture that plants use to recruit their own microbiome.
 
-**Dysbiosis**. 
+**Dysbiosis**. Sometimes, plant health status is difficult to be explained simply by the presence/absence of a plant 
 
 **Evolution**.
 
