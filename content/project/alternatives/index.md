@@ -1,12 +1,12 @@
 ---
-title: Alternative control strategies
-summary: We are getting inspired by nature to find environmental-friendly solutions to crop protection.
+title: Alternative strategies to protect mediterranean crops and agricultural products
+summary: We are getting inspired by nature to find environmental-friendly solutions to protect our crops in the field and after harvest.
 tags:
   - alternative strategies
   - biocontrol
   - plant extracts
   - microorganisms
-  - synthetic communities
+  - postharvest
 date: '2021-01-01T00:00:00Z'
 profile: false
 reading_time: false
