@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:antonino.malacrino@gmail.com'  # For a direct email link, use "mailto:antonino.malacrino@gmail.com".
+  link: 'mailto:antonino.malacrino@unirc.it'  # For a direct email link, use "mailto:antonino.malacrino@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/antonino_mal
@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1ZAfSp8PyKjZNcPXO7GvmCnSSsog6YxGF/view?usp=sharing
+  link: https://www.dropbox.com/sh/m4j8qs0fw289984/AAAlzpE8-JCSMjpff2OTKNQ3a?dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
