@@ -1,5 +1,5 @@
 ---
-title: 'Plant genotype influence the structure of cereal seed fungal microbiome'
+title: 'Olive leaf spot caused by Venturia oleaginea: An updated review'
 authors:
   - Roberto Buonaurio
   - Leen Almadi
