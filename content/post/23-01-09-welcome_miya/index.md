@@ -1,6 +1,7 @@
 ---
 title: Welcome Miya!
 date: 2022-12-15
+lastmod: 2022-12-15
 image:
   focal_point: 'top'
   preview_only: true

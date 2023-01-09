@@ -1,6 +1,7 @@
 ---
 title: Group website is finally online!
 date: 2022-08-14
+lastmod: 2022-08-14
 image:
   focal_point: 'top'
   preview_only: true
