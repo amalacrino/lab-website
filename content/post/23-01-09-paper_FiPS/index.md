@@ -11,4 +11,4 @@ reading_time: false
 
 A new paper published in Frontiers in Plant Science! In this review article we explore the taxonomy, life style, cycle, epidemiology, diagnosis, and control of *Venturia oleaginea*, the agent of olive leaf spot.
 
-{{< cite page="/publication/journal-article/buonaurio_2023_fim" view="4" >}}
+{{< cite page="/publication/journal-article/buonaurio_2023_fips" view="4" >}}
