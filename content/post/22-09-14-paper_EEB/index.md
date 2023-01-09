@@ -1,6 +1,7 @@
 ---
-title: New paper from the lab!
+title: 14 Sep 2022. New paper from the lab!
 date: 2022-09-14
+show_date: false
 image:
   focal_point: 'top'
   preview_only: true
