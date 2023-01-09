@@ -1,7 +1,7 @@
 ---
-title: Welcome Miya!
+title: [2022-Dec-15] Welcome Miya!
 date: 2022-12-15
-lastmod: 2022-12-15
+show_date: false
 image:
   focal_point: 'top'
   preview_only: true
