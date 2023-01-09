@@ -1,6 +1,7 @@
 ---
-title: [2022-Dec-15] Welcome Miya!
+title: 15 Dec 2022. Welcome Miya!
 date: 2022-12-15
+show_date: false
 image:
   focal_point: 'top'
   preview_only: true
