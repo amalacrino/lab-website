@@ -28,7 +28,7 @@ doi: '10.1094/PHP-09-21-0123-RS'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Plants'
+publication: 'Plant Health Progress'
 publication_short: ''
 
 abstract: For several years, pest management in tomato production in Cambodia has generally focused on the use of synthetic pesticides. We compared conventional pest management (farmers’ traditional practices) with an integrated pest management (IPM) program on 12 farms in the northwestern part of Cambodia. The IPM program combined cultural, biological, and chemical practices. We found that IPM practices reduced aphid damage by 46%, and diseases such as Fusarium wilt and damping-off were substantially reduced. Our results indicate that the IPM package increased tomato yield and income by an average of 23 and 34%, respectively, compared with conventional practices during both dry and rainy seasons.
