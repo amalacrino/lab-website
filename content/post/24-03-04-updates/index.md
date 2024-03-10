@@ -21,6 +21,6 @@ Nesma's **first preprint** was posted on biorXiv: [Lettuce seedlings rapidly ass
 
 And Antonino co-authored **two papers**:
 
-Malacrinò et al. (2024) [Induced responses contribute to rapid adaptation of Spirodela polyrhiza to herbivory by Lymnaea stagnalis](https://www.nature.com/articles/s42003-023-05706-0). *Communications Biology*.
+{{< cite page="/publication/journal-article/Malacrino_2024_COMMSBIO" view="4" >}}
 
-Yan et al. (2024) [Combination of biochar and PGPBs amendment suppresses soil-borne pathogens by modifying plant-associated microbiome](https://www.sciencedirect.com/science/article/pii/S0929139323003608). *Applied Soil Ecology*. 
+{{< cite page="/publication/journal-article/Yan_2023_ASE" view="4" >}}
