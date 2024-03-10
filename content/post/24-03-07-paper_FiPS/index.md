@@ -11,4 +11,6 @@ reading_time: false
 
 A new paper published in Frontiers in Plant Science! Our results will provide insights into the interplay of the molecular mechanisms underlying plant-pathogen interactions.
 
+<!--more-->
+
 {{< cite page="/publication/journal-article/aci_2024_fips" view="4" >}}
