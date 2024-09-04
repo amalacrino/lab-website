@@ -13,7 +13,7 @@ title: Nesma Zakaria
 superuser: false
 
 # Role/position
-role: PhD student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
