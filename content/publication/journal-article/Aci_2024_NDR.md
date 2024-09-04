@@ -24,7 +24,7 @@ doi: '10.1002/ndr2.12281'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Frontiers in Plant Science'
+publication: 'New Disease Reports'
 publication_short: ''
 
 #abstract:
