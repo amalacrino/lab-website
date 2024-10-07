@@ -14,7 +14,7 @@ weight: 20
 superuser: false
 
 # Role/position
-role: Associate Professor and Department Head
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
